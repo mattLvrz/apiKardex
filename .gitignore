@@ -1,0 +1,7 @@
+#ignorar los directorios siguientes
+.svn/
+node_modules/
+package-lock.json
+logtemporal.txt
+target/
+/nbproject/
